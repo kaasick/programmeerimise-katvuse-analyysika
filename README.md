@@ -1,0 +1,1 @@
+Bakalaureusetöös "Ülesannete katvuse analüüs aines „Programmeerimine"" kasutatud materjalid andmehoidla, mis koosneb andmestikust, lähtekoodist ja kaustast, kus on lähtekoodist genereeritud jooniste piltid
